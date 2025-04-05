@@ -1,0 +1,207 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\konim\\OneDrive\\Documents\\event ease (new)\\cldv6211-part-1-ST10443730\\EventEase\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B07E1A3A-D916-4824-AAF0-4010C01C2743}|EventEase.csproj|c:\\users\\konim\\onedrive\\documents\\event ease (new)\\cldv6211-part-1-st10443730\\eventease\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B07E1A3A-D916-4824-AAF0-4010C01C2743}|EventEase.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B07E1A3A-D916-4824-AAF0-4010C01C2743}|EventEase.csproj|c:\\users\\konim\\onedrive\\documents\\event ease (new)\\cldv6211-part-1-st10443730\\eventease\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{B07E1A3A-D916-4824-AAF0-4010C01C2743}|EventEase.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B07E1A3A-D916-4824-AAF0-4010C01C2743}|EventEase.csproj|c:\\users\\konim\\onedrive\\documents\\event ease (new)\\cldv6211-part-1-st10443730\\eventease\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{B07E1A3A-D916-4824-AAF0-4010C01C2743}|EventEase.csproj|solutionrelative:wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B07E1A3A-D916-4824-AAF0-4010C01C2743}|EventEase.csproj|c:\\users\\konim\\onedrive\\documents\\event ease (new)\\cldv6211-part-1-st10443730\\eventease\\views\\venue\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B07E1A3A-D916-4824-AAF0-4010C01C2743}|EventEase.csproj|solutionrelative:views\\venue\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B07E1A3A-D916-4824-AAF0-4010C01C2743}|EventEase.csproj|c:\\users\\konim\\onedrive\\documents\\event ease (new)\\cldv6211-part-1-st10443730\\eventease\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{B07E1A3A-D916-4824-AAF0-4010C01C2743}|EventEase.csproj|solutionrelative:appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B07E1A3A-D916-4824-AAF0-4010C01C2743}|EventEase.csproj|c:\\users\\konim\\onedrive\\documents\\event ease (new)\\cldv6211-part-1-st10443730\\eventease\\controllers\\bookingcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B07E1A3A-D916-4824-AAF0-4010C01C2743}|EventEase.csproj|solutionrelative:controllers\\bookingcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B07E1A3A-D916-4824-AAF0-4010C01C2743}|EventEase.csproj|c:\\users\\konim\\onedrive\\documents\\event ease (new)\\cldv6211-part-1-st10443730\\eventease\\views\\booking\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B07E1A3A-D916-4824-AAF0-4010C01C2743}|EventEase.csproj|solutionrelative:views\\booking\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B07E1A3A-D916-4824-AAF0-4010C01C2743}|EventEase.csproj|c:\\users\\konim\\onedrive\\documents\\event ease (new)\\cldv6211-part-1-st10443730\\eventease\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B07E1A3A-D916-4824-AAF0-4010C01C2743}|EventEase.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B07E1A3A-D916-4824-AAF0-4010C01C2743}|EventEase.csproj|c:\\users\\konim\\onedrive\\documents\\event ease (new)\\cldv6211-part-1-st10443730\\eventease\\controllers\\eventcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B07E1A3A-D916-4824-AAF0-4010C01C2743}|EventEase.csproj|solutionrelative:controllers\\eventcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B07E1A3A-D916-4824-AAF0-4010C01C2743}|EventEase.csproj|c:\\users\\konim\\onedrive\\documents\\event ease (new)\\cldv6211-part-1-st10443730\\eventease\\controllers\\venuecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B07E1A3A-D916-4824-AAF0-4010C01C2743}|EventEase.csproj|solutionrelative:controllers\\venuecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B07E1A3A-D916-4824-AAF0-4010C01C2743}|EventEase.csproj|c:\\users\\konim\\onedrive\\documents\\event ease (new)\\cldv6211-part-1-st10443730\\eventease\\data\\eventeasedbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B07E1A3A-D916-4824-AAF0-4010C01C2743}|EventEase.csproj|solutionrelative:data\\eventeasedbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\konim\\OneDrive\\Documents\\event ease (new)\\cldv6211-part-1-ST10443730\\EventEase\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\konim\\OneDrive\\Documents\\event ease (new)\\cldv6211-part-1-ST10443730\\EventEase\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAABJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-03T20:46:40.268Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\konim\\OneDrive\\Documents\\event ease (new)\\cldv6211-part-1-ST10443730\\EventEase\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\konim\\OneDrive\\Documents\\event ease (new)\\cldv6211-part-1-ST10443730\\EventEase\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-04-04T17:33:45.215Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "BookingController.cs",
+              "DocumentMoniker": "C:\\Users\\konim\\OneDrive\\Documents\\event ease (new)\\cldv6211-part-1-ST10443730\\EventEase\\Controllers\\BookingController.cs",
+              "RelativeDocumentMoniker": "Controllers\\BookingController.cs",
+              "ToolTip": "C:\\Users\\konim\\OneDrive\\Documents\\event ease (new)\\cldv6211-part-1-ST10443730\\EventEase\\Controllers\\BookingController.cs",
+              "RelativeToolTip": "Controllers\\BookingController.cs",
+              "ViewState": "AgIAACQAAAAAAAAAAIAwwDQAAABXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-03T21:04:19.448Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Users\\konim\\OneDrive\\Documents\\event ease (new)\\cldv6211-part-1-ST10443730\\EventEase\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "appsettings.Development.json",
+              "ToolTip": "C:\\Users\\konim\\OneDrive\\Documents\\event ease (new)\\cldv6211-part-1-ST10443730\\EventEase\\appsettings.Development.json",
+              "RelativeToolTip": "appsettings.Development.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAACjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-04-03T20:37:17.127Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "site.css",
+              "DocumentMoniker": "C:\\Users\\konim\\OneDrive\\Documents\\event ease (new)\\cldv6211-part-1-ST10443730\\EventEase\\wwwroot\\css\\site.css",
+              "RelativeDocumentMoniker": "wwwroot\\css\\site.css",
+              "ToolTip": "C:\\Users\\konim\\OneDrive\\Documents\\event ease (new)\\cldv6211-part-1-ST10443730\\EventEase\\wwwroot\\css\\site.css",
+              "RelativeToolTip": "wwwroot\\css\\site.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-04-03T22:05:06.636Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\konim\\OneDrive\\Documents\\event ease (new)\\cldv6211-part-1-ST10443730\\EventEase\\Views\\Venue\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Venue\\Index.cshtml",
+              "ToolTip": "C:\\Users\\konim\\OneDrive\\Documents\\event ease (new)\\cldv6211-part-1-ST10443730\\EventEase\\Views\\Venue\\Index.cshtml",
+              "RelativeToolTip": "Views\\Venue\\Index.cshtml",
+              "ViewState": "AgIAACoAAAAAAAAAAAAAACUAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-03T21:52:41.496Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\konim\\OneDrive\\Documents\\event ease (new)\\cldv6211-part-1-ST10443730\\EventEase\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\konim\\OneDrive\\Documents\\event ease (new)\\cldv6211-part-1-ST10443730\\EventEase\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAABMAAAAAAAAAAAAIwCsAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-03T21:05:17.587Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\konim\\OneDrive\\Documents\\event ease (new)\\cldv6211-part-1-ST10443730\\EventEase\\Views\\Booking\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Booking\\Index.cshtml",
+              "ToolTip": "C:\\Users\\konim\\OneDrive\\Documents\\event ease (new)\\cldv6211-part-1-ST10443730\\EventEase\\Views\\Booking\\Index.cshtml",
+              "RelativeToolTip": "Views\\Booking\\Index.cshtml",
+              "ViewState": "AgIAABQAAAAAAAAAAAAAACMAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-03T21:56:58.003Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "EventController.cs",
+              "DocumentMoniker": "C:\\Users\\konim\\OneDrive\\Documents\\event ease (new)\\cldv6211-part-1-ST10443730\\EventEase\\Controllers\\EventController.cs",
+              "RelativeDocumentMoniker": "Controllers\\EventController.cs",
+              "ToolTip": "C:\\Users\\konim\\OneDrive\\Documents\\event ease (new)\\cldv6211-part-1-ST10443730\\EventEase\\Controllers\\EventController.cs",
+              "RelativeToolTip": "Controllers\\EventController.cs",
+              "ViewState": "AgIAADEAAAAAAAAAAAAnwD0AAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-03T21:02:41.232Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "VenueController.cs",
+              "DocumentMoniker": "C:\\Users\\konim\\OneDrive\\Documents\\event ease (new)\\cldv6211-part-1-ST10443730\\EventEase\\Controllers\\VenueController.cs",
+              "RelativeDocumentMoniker": "Controllers\\VenueController.cs",
+              "ToolTip": "C:\\Users\\konim\\OneDrive\\Documents\\event ease (new)\\cldv6211-part-1-ST10443730\\EventEase\\Controllers\\VenueController.cs",
+              "RelativeToolTip": "Controllers\\VenueController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-03T21:00:02.716Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "EventEaseDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\konim\\OneDrive\\Documents\\event ease (new)\\cldv6211-part-1-ST10443730\\EventEase\\Data\\EventEaseDbContext.cs",
+              "RelativeDocumentMoniker": "Data\\EventEaseDbContext.cs",
+              "ToolTip": "C:\\Users\\konim\\OneDrive\\Documents\\event ease (new)\\cldv6211-part-1-ST10443730\\EventEase\\Data\\EventEaseDbContext.cs",
+              "RelativeToolTip": "Data\\EventEaseDbContext.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAYwBgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-03T20:32:50.125Z"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
